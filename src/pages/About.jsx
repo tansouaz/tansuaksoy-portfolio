@@ -11,13 +11,14 @@ export default function About() {
             Software Developer and IT Specialist with a Bachelor's degree from
             Istanbul University – Cerrahpaşa. I specialize in building
             automation systems, intelligent software solutions, and modern web
-            applications. My experience spans IT infrastructure management,
-            enterprise software support, and full-stack development using
-            Python, C#, and modern web technologies. Certified in Harvard
-            University's CS50x, with strong foundations in computer science,
-            system architecture, and database systems. I enjoy designing
-            efficient systems, automation tools, and scalable software that
-            solve real-world technical challenges.
+            applications. My experience includes IT infrastructure management,
+            enterprise software support, and backend development using Python,
+            C#, and modern web technologies. I also design automation tools and
+            Telegram-based systems that streamline workflows and improve
+            operational efficiency. Certified in Harvard University's CS50x,
+            with strong foundations in computer science, system architecture,
+            and database systems. Passionate about building efficient, scalable
+            solutions that solve real-world technical challenges.
           </p>
         </div>
 
