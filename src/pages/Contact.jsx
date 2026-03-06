@@ -12,7 +12,7 @@ export default function Contact() {
     <section className="min-h-screen gradient-bg text-white flex items-center justify-center px-5 md:px-8 pt-24 md:pt-32">
       <div className="glass p-6 md:p-12 rounded-3xl max-w-xl w-full shadow-2xl">
         <h2 className="text-3xl md:text-4xl font-bold mb-8 md:mb-10 text-center">
-          Contact
+          Contacttt
         </h2>
 
         <div className="space-y-6 md:space-y-8">
