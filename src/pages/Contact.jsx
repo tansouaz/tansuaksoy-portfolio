@@ -4,24 +4,18 @@ import {
   MapPin,
   Linkedin,
   Github,
-  MessageCircle
+  MessageCircle,
 } from "lucide-react";
 
 export default function Contact() {
   return (
     <section className="min-h-screen gradient-bg text-white flex items-center justify-center px-8 pt-32">
-
       <div className="glass p-12 rounded-3xl max-w-xl w-full shadow-2xl">
-
-        <h2 className="text-4xl font-bold mb-10 text-center">
-          Contact
-        </h2>
+        <h2 className="text-4xl font-bold mb-10 text-center">Contact</h2>
 
         <div className="space-y-8">
-
           {/* Phone + WhatsApp */}
           <div className="flex items-center justify-between">
-
             <div className="flex items-center gap-4">
               <Phone className="text-orange-400" />
 
@@ -41,16 +35,13 @@ export default function Contact() {
               <MessageCircle size={18} />
               WhatsApp
             </a>
-
           </div>
 
           {/* Location */}
           <div className="flex items-center gap-4">
             <MapPin className="text-orange-400" />
 
-            <span>
-              Istanbul, Türkiye
-            </span>
+            <span>Istanbul, Türkiye</span>
           </div>
 
           {/* Email */}
@@ -90,11 +81,8 @@ export default function Contact() {
               GitHub Profile
             </a>
           </div>
-
         </div>
-
       </div>
-
     </section>
   );
 }
