@@ -8,17 +8,15 @@ export default function About() {
           <h2 className="text-4xl font-bold mb-6">About Me</h2>
 
           <p className="text-gray-300 leading-relaxed text-lg">
-            Software Developer and IT Specialist with a Bachelor's degree from
-            Istanbul University – Cerrahpaşa. I specialize in building
-            automation systems, intelligent software solutions, and modern web
+            Software Developer and IT Specialist with a Bachelor's degree in
+            Computer and Instructional Technologies Education from Istanbul
+            University – Cerrahpaşa. I specialize in building automation
+            systems, intelligent software solutions, and modern web
             applications. My experience includes IT infrastructure management,
             enterprise software support, and backend development using Python,
-            C#, and modern web technologies. I also design automation tools and
-            Telegram-based systems that streamline workflows and improve
-            operational efficiency. Certified in Harvard University's CS50x,
-            with strong foundations in computer science, system architecture,
-            and database systems. Passionate about building efficient, scalable
-            solutions that solve real-world technical challenges.
+            C#, and modern web technologies. Passionate about designing
+            efficient systems, automation tools, and scalable software solutions
+            that solve real-world technical challenges.
           </p>
         </div>
 
