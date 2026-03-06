@@ -12,10 +12,10 @@ export default function Projects() {
     },
 
     {
-      title: "Telegram Automation Bots",
+      title: "Technical SEO Optimization",
       description:
-        "Custom Telegram bots with automation workflows, multi-language support and integrations.",
-      tech: ["Python", "Telegram API", "Automation"],
+        "Technical SEO optimization for improving website performance, search engine visibility, and structured HTML architecture.",
+      tech: ["SEO", "Technical SEO", "Performance Optimization"],
       github: "https://github.com/tansouaz",
       demo: "https://github.com/tansouaz",
     },
@@ -48,12 +48,30 @@ export default function Projects() {
     },
 
     {
-      title: "Technical SEO Optimization",
+      title: "Telegram Automation Bots",
       description:
-        "Technical SEO optimization for improving website performance, search engine visibility, and structured HTML architecture.",
-      tech: ["SEO", "Technical SEO", "Performance Optimization"],
+        "Custom Telegram bots with automation workflows, multi-language support and integrations.",
+      tech: ["Python", "Telegram API", "Automation"],
       github: "https://github.com/tansouaz",
       demo: "https://github.com/tansouaz",
+    },
+
+    {
+      title: "Telegram Spy Game Bot",
+      description:
+        "Interactive Telegram spy game bot with automatic role assignment, multi-language support and dynamic gameplay designed for single-device chat experiences.",
+      tech: ["Python", "Telegram API", "Game Logic", "Bot Automation"],
+      github: "https://github.com/tansouaz",
+      demo: "https://t.me/SpyGameNowBot",
+    },
+
+    {
+      title: "Telegram QR Code Generator Bot",
+      description:
+        "Telegram bot that generates QR codes for websites, WhatsApp numbers, Instagram profiles and locations with a simple interactive menu.",
+      tech: ["Python", "Telegram API", "QR Code", "Automation"],
+      github: "https://github.com/tansouaz",
+      demo: "https://t.me/GetMyQR_bot",
     },
 
     {
