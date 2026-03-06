@@ -119,6 +119,14 @@ export default function About() {
                 CS50x: Introduction to Computer Science
               </p>
 
+              <a
+                href="https://courses.edx.org/certificates/33b8187bb05a4ae19d8a155cbc44f349"
+                target="_blank"
+                className="text-orange-400 hover:underline"
+              >
+                View Certificate
+              </a>
+
               <p className="text-orange-400 mt-1">2026</p>
             </div>
           </div>
